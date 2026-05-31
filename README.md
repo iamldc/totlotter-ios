@@ -20,11 +20,12 @@ pads, and nature spots nearby. Users can:
 - 👤 Build a profile with emoji picker, badges, and live stats
 - 📍 Use live location detection via LocationManager
 - 
+## Screenshots
 <p align="center">
-  <img src="screenshots/main_1290x2796.png" width="200"/>
-  <img src="screenshots/saved_1290x2796.png" width="200"/>
-  <img src="screenshots/review_1290x2796.png" width="200"/>
-  <img src="screenshots/review_1290x2796.png" width="200"/>
+  <img src="main_1290x2796.png" width="200"/>
+  <img src="badges_1290x2796.png" width="200"/>
+  <img src="review_1290x2796.png" width="200"/>
+  <img src="saved_1290x2796.png" width="200"/>
 </p>
 ---
 
