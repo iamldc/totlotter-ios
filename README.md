@@ -19,7 +19,7 @@ pads, and nature spots nearby. Users can:
 - ⭐ Write and read park reviews
 - 👤 Build a profile with emoji picker, badges, and live stats
 - 📍 Use live location detection via LocationManager
-- 
+  
 ## Screenshots
 <p align="center">
   <img src="main_1290x2796.png" width="200"/>
